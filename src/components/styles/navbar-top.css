@@ -1,0 +1,52 @@
+.navbar-top{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    height: 3.7rem;
+    width: 100%;
+    background-color: white;
+    font-size: 0.9rem;
+}
+.nav-top-left, .nav-top-right{
+    display: flex;
+    align-items: center;
+
+    height: 100%;
+}
+.nav-top-left {
+    margin-left: 1rem;
+}
+.nav-top-right {
+    margin-right: 0.5rem;
+}
+
+/** NAV TOP LEFT */
+.co-name {
+    font-weight: 400;
+    font-size: 1.45rem;
+    font-family: 'Courgette', cursive;
+    color: #3e9e8b;
+    margin-inline: 1rem;
+    padding-bottom: 0.15rem;
+}
+.nav-top-buttons{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    margin-inline: 0.5rem;
+}
+.nav-top-buttons li {
+    text-align: center;
+    margin-inline: 0.1rem;
+}
+.nav-top-buttons a{
+    cursor: pointer;
+    display: inline-block;
+
+
+    padding: 1rem;
+}
+
+
+/** NAV TOP RIGHT*/

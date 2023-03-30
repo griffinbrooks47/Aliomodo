@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Heebo';
+    src: url('/fonts/Heebo-Medium.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Alkatra';
+    src: url('/fonts/Alkatra-Medium.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Courgette';
+    src: url('/fonts/Courgette-Regular.ttf') format('truetype');
+}

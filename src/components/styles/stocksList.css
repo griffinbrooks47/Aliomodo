@@ -1,0 +1,48 @@
+.stocks-div {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 5rem;
+}
+.stocks-main {
+    width: 80%;
+    max-width: 50rem;
+    background-color: rgb(251, 251, 251);
+    border-radius: 0.2rem;
+    display: grid;
+    grid-auto-flow: column;
+    grid-template-columns: 0.3fr 1fr;
+}
+
+.stocks-names {
+    display: flex;
+    flex-direction: column;
+}
+.stocks-names-header {
+    height: 1.5rem;
+    min-width: 6rem;
+    text-align: center;
+    background-color: rgba(137, 43, 226, 0.171);
+}
+.stocks-names-list {
+    display: grid;
+}
+.stocks-names-list li{
+    height:5rem;
+    min-width: 8rem;
+    background-color: rgba(255, 127, 80, 0.219);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.stocks-names-list li a {
+    width: 100%;
+    text-align: center;
+}
+
+.stocks-data {
+    
+}
+.stocks-data-header {
+
+}
