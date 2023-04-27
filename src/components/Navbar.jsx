@@ -12,6 +12,9 @@ export const Navbar = () => {
                     <li><a>Sell</a></li>
                     <li><a>Trade</a></li>
                 </ul>
+                <a class="search-button"></a>
+                <input type="text" class="searchbar"/>
+                <a>Sort By</a>
             </div>
             <div class="nav-top-right">
                 <ul class="nav-top-buttons">

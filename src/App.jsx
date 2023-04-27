@@ -15,7 +15,6 @@ function App() {
   return (
     <main className="App">
       <Navbar />
-      <SubNavBar />
       <section class="stocks-section">
         <StocksList />
       </section>

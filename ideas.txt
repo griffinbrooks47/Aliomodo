@@ -1,0 +1,3 @@
+Take inspo from robinhood:
+    above stock list could be a widget displaying a graph and information about a single stock or asset. Clicking on another refreshes the widget with that stock
+Research tab and personal tab separated
